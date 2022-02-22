@@ -1,6 +1,6 @@
-# Module 4 Problems
+# Module 5 Individual Problem Set
 
-Please complete all problems from the Module 4 Problem Set.
+Please complete one problem from the Module 5 Problem Set. The other problem will be completed with the help of a partner.
 
 ---
 
